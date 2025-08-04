@@ -7,5 +7,5 @@ engage, convert, and reflect your brand’s voice. Let’s build emails your cli
 
 🎯 Need eye-catching, responsive email templates that perform across all devices?
 
-📬 Email: [studiomailuxe@gmail.com]  (mailto:studiomailuxe@gmail.com)
+📩 [studiomailuxe@gmail.com](mailto:studiomailuxe@gmail.com)
 🌐 Website: [studiomailuxe.github.io](https://studiomailuxe.github.io/)
