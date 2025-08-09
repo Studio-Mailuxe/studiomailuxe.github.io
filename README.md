@@ -1,5 +1,5 @@
 # Studio Mailuxe  
-**Premium HTML & AMP Email Design**
+**Premium HTML & MJML Email Design**
 
 # studiomailuxe.github.io
 Studio Mailuxe – We craft responsive, high-converting email templates that blend clean code with elegant design. Each layout is built to 
